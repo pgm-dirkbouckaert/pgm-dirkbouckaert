@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **pgm-dirkbouckaert/pgm-dirkbouckaert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Dirk Bouckaert
+==============
+
+Student Graduate Programming at Arteveldehogeschool (Ghent, Belgium)
+- I'm currently working on a Todo App using ExpressJS. 
+- I'm developing a PHP application for a school library.
+
+Technologies I am familiar with:
+- HTML, CSS and Javascript
+- ExpressJS
+- PHP (CodeIgniter, Laravel)
