@@ -22,7 +22,7 @@ Dirk Bouckaert
 
 ### Technologies, frameworks and concepts I am familiar with:
 - HTML, CSS, flexbox, Bootstrap 
-- Javascript, NodeJs, ExpressJS 
+- Javascript, NodeJs, ExpressJS, MongoDB 
 - PHP, CodeIgniter, Laravel
 - API, CRUD, MVC
 - Google Apps Script, Google Cloud Platform
