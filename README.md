@@ -27,7 +27,7 @@ Dirk Bouckaert
 - API, CRUD, MVC
 - Google Apps Script, Google Cloud Platform
 
-### Websites I am maintaining:
+### Websites I'm maintaining:
 - [iLeren](https://ileren.be)
 - [Schuilplaats](https://schuilplaats.be)
 
