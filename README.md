@@ -17,13 +17,18 @@ Dirk Bouckaert
 ==============
 
 ### Student Graduate Programming at Arteveldehogeschool (Ghent, Belgium)
-- I'm currently working on a Todo App using ExpressJS. 
-- I'm developing a PHP application for a school library.
+- I've made several projects using NodeJS and ExpressJS. 
+- I've developed a PHP application for a school library using CodeIgniter.
+- I've been looking into Laravel, Livewire and Filament (using DDEV).
+- I'm looking forward to learning how to work with NextJS.
+- Developing mobile apps is also on the agenda.
 
 ### Technologies, frameworks and concepts I am familiar with:
-- HTML, CSS, flexbox, Bootstrap 
-- Javascript, NodeJs, ExpressJS, MongoDB 
+- HTML, Javascript, CSS, Bootstrap, Tailwind CSS 
+- NodeJs, ExpressJS
+- React 
 - PHP, CodeIgniter, Laravel
+- MySQL, SQLite, MongoDB, HyGraph
 - API, CRUD, MVC
 - Google Apps Script, Google Cloud Platform
 
