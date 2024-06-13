@@ -20,7 +20,7 @@ Dirk Bouckaert
 - I've made several projects using NodeJS and ExpressJS. 
 - I've developed a PHP application for a school library using CodeIgniter.
 - I've been looking into Laravel, Livewire and Filament (using DDEV).
-- I've learned React (with React Router, state management, context, Helmet, styling with Tailwind CSS and/or CSS modules, and integration of GraphCMS and Cloudinary)
+- I've learned React (with React Router, state management, context, Helmet, styling with Tailwind CSS and/or CSS modules, and integration of Hygraph and Cloudinary)
 - I'm looking forward to learning how to work with NextJS.
 - Developing mobile apps is also on the agenda.
 
@@ -29,7 +29,7 @@ Dirk Bouckaert
 - NodeJs, ExpressJS
 - React 
 - PHP, CodeIgniter, Laravel
-- MySQL, SQLite, MongoDB, HyGraph
+- MySQL, SQLite, MongoDB, Hygraph
 - API, CRUD, MVC
 - Google Apps Script, Google Cloud Platform
 
